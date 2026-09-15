@@ -1,0 +1,9 @@
+
+  VITE v5.4.21  ready in 834 ms
+
+  ➜  Local:   http://localhost:5182/
+  ➜  Network: http://192.168.0.116:5182/
+08:58:54 [vite] page reload src/main.js
+08:59:05 [vite] hmr update /src/App.vue, /src/App.vue?vue&type=style&index=0&lang.css, /src/App.vue?vue&type=style&index=1&scoped=7a7a37b1&lang.css
+08:59:40 [vite] hmr update /src/components/SignProject.vue, /src/components/SignProject.vue?vue&type=style&index=0&scoped=bdfac279&lang.css
+09:00:46 [vite] hmr update /src/components/MessageBoard.vue, /src/components/MessageBoard.vue?vue&type=style&index=0&scoped=844e2227&lang.css
